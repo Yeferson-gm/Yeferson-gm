@@ -1,15 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:0F766E,48:60A5FA,78:A78BFA,100:FDA4AF" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=190&color=0:101820,100:123B40&text=Yeferson%20Garc%C3%ADa&fontColor=F8FAFC&fontSize=46&fontAlign=50&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%20%7C%20%20PER%C3%9A&descSize=17&descAlignY=65&animation=fadeIn" width="100%" alt="Yeferson García — Full Stack Developer de Perú" />
 
-# Hola, soy Yeferson García
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1400&color=0F9488&width=650&height=40&lines=Desarrollo+web+con+prop%C3%B3sito.;APIs+que+conectan+productos.;Automatizaci%C3%B3n+que+simplifica+procesos." width="650" height="40" alt="Desarrollo web con propósito. APIs que conectan productos. Automatización que simplifica procesos." />
 
-**Full Stack Developer** · <img src="https://flagcdn.com/pe.svg" width="21" height="14" alt="Bandera de Perú" /> Perú  
-Desarrollo aplicaciones web, APIs e integraciones que conectan productos y automatizan procesos. Trabajo desde la interfaz hasta el backend, con foco en código mantenible, rendimiento y una experiencia de uso clara.
+**Full Stack Developer** · <img src="https://flagcdn.com/pe.svg" width="21" height="14" alt="Bandera de Perú" /> Perú
+
+Desarrollo productos web que simplifican el trabajo de los negocios: desde interfaces claras hasta APIs e integraciones que automatizan procesos. Me enfoco en código mantenible, rendimiento y una experiencia de uso cuidada.
 
 Mis proyectos abarcan facturación electrónica, pagos, mensajería y gestión de imágenes.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=flat-square&logo=googlechrome&logoColor=white)](https://innovadev.site) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-1D4ED8?style=flat-square)](https://www.linkedin.com/in/yefersongarcia) &nbsp; [![Email](https://img.shields.io/badge/Email-6D28D9?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@innovadev.site) &nbsp; [![GitHub](https://img.shields.io/badge/Yeferson--gm-334155?style=flat-square&logo=github&logoColor=white)](https://github.com/Yeferson-gm)
 
-<sub><a href="#stack">Stack</a> · <a href="#proyectos-destacados">Proyectos</a> · <a href="#experiencia">Experiencia</a> · <a href="#certificaciones">Certificaciones</a> · <a href="#educación">Educación</a> · <a href="#actividad">Actividad</a></sub>
+
+<sub><a href="#stack">Stack</a> · <a href="#proyectos-destacados">Proyectos</a> · <a href="#experiencia">Experiencia</a> · <a href="#certificaciones">Certificaciones</a> · <a href="#educación">Educación</a> · <a href="#actividad">Actividad</a> · <a href="#contacto">Contacto</a></sub>
 
 ## Stack
 
@@ -80,7 +82,7 @@ Tecnologías que utilizo para desarrollar interfaces, servicios y herramientas d
 
 <sub>Plantilla editable · Los cargos, empresas y fechas de esta sección son ejemplos.</sub>
 
-| Periodo | Rol / organización | Contribución |
+| 📅 Periodo | 💼 Rol / organización | ⚡ Contribución |
 |:---|:---|:---|
 | AAAA — Actualidad | **Full Stack Developer** · Empresa de ejemplo | Desarrollo de interfaces, APIs e integraciones. |
 | AAAA — AAAA | **Frontend Developer** · Empresa de ejemplo | Componentes reutilizables, accesibilidad y rendimiento. |
@@ -109,8 +111,11 @@ Tecnologías que utilizo para desarrollar interfaces, servicios y herramientas d
 
 ## Actividad
 
-[![Estrellas en GitHub](https://img.shields.io/github/stars/Yeferson-gm?style=flat-square&label=Estrellas&color=0F766E&logo=github)](https://github.com/Yeferson-gm?tab=repositories)
-[![Seguidores en GitHub](https://img.shields.io/github/followers/Yeferson-gm?style=flat-square&label=Seguidores&color=1D4ED8&logo=github)](https://github.com/Yeferson-gm?tab=followers)
+<a href="https://github.com/Yeferson-gm"><img src="https://ghstats.dev/api/card?username=Yeferson-gm&bg=15191F&text=CBD5E1&title_color=5EEAD4&icon_color=2DD4BF&hide_border=true&border_radius=12&show_ring=false&hide=grade,avg,active_day,trend,followers&custom_title=Actividad%20de%20Yeferson" width="495" alt="Estadísticas públicas de Yeferson-gm: estrellas, commits, pull requests, issues, racha, contribuciones y repositorios" /></a>
+
+<sub>Datos públicos de GitHub · Actualización automática con caché del proveedor.</sub>
+
+[![Estrellas en GitHub](https://img.shields.io/github/stars/Yeferson-gm?style=flat-square&label=Estrellas&color=0F766E&logo=github)](https://github.com/Yeferson-gm?tab=repositories) &nbsp; [![Seguidores en GitHub](https://img.shields.io/github/followers/Yeferson-gm?style=flat-square&label=Seguidores&color=1D4ED8&logo=github)](https://github.com/Yeferson-gm?tab=followers)
 
 | Repositorio | ⭐ Estrellas | 🍴 Forks | 🐛 Issues |
 |:---|:---:|:---:|:---:|
@@ -126,4 +131,4 @@ Tecnologías que utilizo para desarrollar interfaces, servicios y herramientas d
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:0F766E,48:60A5FA,78:A78BFA,100:FDA4AF" width="100%" alt="" />
 
-<!-- Edición: sustituye los ejemplos de experiencia, certificaciones y educación por tus datos reales. Para tu perfil de GitHub, copia este contenido al README.md del repositorio Yeferson-gm/Yeferson-gm. No requiere archivos adjuntos; las imágenes se cargan desde URLs públicas. Referencias visuales: github.com/thmsgbrt/thmsgbrt y github.com/abhisheknaiidu/awesome-github-profile-readme. Iconos: Skill Icons, Playwright y Simple Icons. -->
+<!-- Edición: sustituye los ejemplos de experiencia, certificaciones y educación por tus datos reales. Para tu perfil de GitHub, copia este contenido al README.md del repositorio Yeferson-gm/Yeferson-gm. No requiere archivos adjuntos; las imágenes se cargan desde URLs públicas. Referencias visuales: github.com/thmsgbrt/thmsgbrt y github.com/abhisheknaiidu/awesome-github-profile-readme. Iconos: Skill Icons, Playwright y Simple Icons. Encabezado: Capsule Render. Texto animado: Readme Typing SVG. Estadísticas: ghstats.dev. Los recursos remotos dependen de la disponibilidad de sus proveedores. -->
